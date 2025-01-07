@@ -6,3 +6,6 @@ channels:
 dependencies:
   - pip
   - rdkit
+  - tqdm
+  - pip:
+      - pqdm
