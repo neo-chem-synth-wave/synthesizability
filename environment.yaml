@@ -1,0 +1,8 @@
+name: synthesizability-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip
+  - rdkit
